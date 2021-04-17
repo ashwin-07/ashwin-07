@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">Full stack web developer developer from India</h3>
+<h3 align="center">Full stack web developer from India</h3>
 
 - 🌱 I’m currently learning **Typescript, GraphQL, Redis, MongoDB**
 
